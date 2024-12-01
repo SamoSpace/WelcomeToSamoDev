@@ -1,2 +1,3 @@
-# WelcomeToSamoDev
-Welcome to our readme file to know who we are.
+##  Welcome to Samo D!
+
+A little company looking for help people who need something to grow!
